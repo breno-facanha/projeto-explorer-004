@@ -228,3 +228,7 @@ footer input{
 footer input:hover {
   background: #0b773c;
 }
+
+input:invalid {
+  border: 2px solid red;
+}
